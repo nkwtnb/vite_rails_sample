@@ -1,0 +1,2 @@
+# vite_rails_sample
+vite_railsを使用したサンプルリポジトリ
